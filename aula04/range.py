@@ -1,7 +1,7 @@
 minhaLista = list(range(10,-11,-1))
 print(minhaLista)
 
-contagem = list(range(0,100, 6))
+contagem = list(range(0,100, 3))
 print(len(contagem))
 if 77 in contagem:
     print('o número 77 faz parte da contagem')
