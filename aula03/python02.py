@@ -5,3 +5,7 @@ novoNumero = lista.insert(2,'joao')
 print(lista)
 novoNumero = lista.pop(0)
 print(lista)
+novoNumero = lista.reverse()
+print(lista)
+del lista[0]
+print(lista)
